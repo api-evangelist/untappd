@@ -1,0 +1,64 @@
+{
+    "name": "Untappd",
+    "description": "Untappd is a free app for iOS and Android that allows you to socially share the brew you're currently enjoying, as well as where you're enjoying it, with your friends!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1701-untappd.jpg",
+    "tags": [
+        "drink",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/untappd\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Untappd",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1701-untappd.jpg",
+            "humanURL": "https:\/\/untappd.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/untappd-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.untappd.com\/"
+        },
+        {
+            "type": "Base",
+            "url": "https:\/\/api.untappd.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.untappd.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/untappd"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/untapped"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/untappd.com\/api\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/untappd"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/untappd.com\/"
+        }
+    ]
+}
