@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://untappd.com/api/docs
 common:
+  - type: DomainSecurity
+    url: security/untappd-domain-security.yml
   - type: Website
     url: https://untappd.com/api/docs
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - type: Blog
+    url: https://untappd.com/blog/rss
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
