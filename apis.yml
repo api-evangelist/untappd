@@ -33,14 +33,18 @@ x-category: "Food & Drink"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
+  - Food and Beverage
+  - Public APIs
+tags_raw:
   - Food And Drink
   - Public APIs
 apis:
   - name: Untappd
     description: "Social beer sharing"
     humanURL: https://untappd.com/api/docs
-    baseURL: https://untappd.com/api/docs
     tags:
+      - Food and Beverage
+    tags_raw:
       - Food And Drink
     properties:
       - type: Documentation
